@@ -1,0 +1,3 @@
+C:/Users/student/Desktop/Pawel_Srodek_zaliczenie_OUD/cmake-build-debug/CMakeFiles/Pawel_Srodek_zaliczenie_OUD.dir
+C:/Users/student/Desktop/Pawel_Srodek_zaliczenie_OUD/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/student/Desktop/Pawel_Srodek_zaliczenie_OUD/cmake-build-debug/CMakeFiles/rebuild_cache.dir
